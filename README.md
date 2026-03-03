@@ -1,20 +1,22 @@
-# AI Risk Evaluation Project
+AI Risk Evaluation Project
 
-## Overview
-This project evaluates AI-generated outputs for ethical and safety risks.
+This project evaluates potential risks in AI-generated outputs.
 
-## Risk Categories
-- Bias Risk
-- Misinformation Risk
-- Hallucination Risk
-- Harmful Content Risk
-- Compliance Risk
+Dataset:
+Two Excel datasets containing AI responses categorized into risk types.
 
-## Methodology
-20 AI outputs were analyzed and classified based on risk type and severity.
+Risk Categories:
+Bias Risk
+Security Risk
+Health Misinformation
+Financial Risk
+Overgeneralization
 
-## Tools Used
-Microsoft Excel
+Implementation:
+Python script analyzes the dataset and counts risk levels such as High, Medium, and Low.
 
-## Learning Outcome
-This project helped develop structured reasoning for AI safety and policy evaluation.
+Tools Used:
+Python
+Excel
+VS Code
+GitHub
