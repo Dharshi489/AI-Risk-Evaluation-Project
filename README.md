@@ -13,7 +13,9 @@ Financial Risk
 Overgeneralization
 
 Implementation:
-Python script analyzes the dataset and counts risk levels such as High, Medium, and Low.
+A Python script reads the dataset from Excel and analyzes AI-generated responses. 
+Using keyword-based detection, the script automatically identifies and labels 
+different types of risks present in the AI output.
 
 Tools Used:
 Python
